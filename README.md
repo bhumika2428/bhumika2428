@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumika2428&label=Profile%20views&color=0e75b6&style=flat" alt="bhumika2428" /> </p>
 
-- 🚀  **2nd Year CSE Student** | Aspiring **Software Engineer**
+- 🚀  **2nd Year IT Student** | Aspiring **Software Engineer**
   
 - 🎯 Focusing on **innovation, problem-solving, and impactful tech solutions**
 
